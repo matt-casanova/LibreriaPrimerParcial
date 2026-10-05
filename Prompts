@@ -15,4 +15,8 @@ poner el llamado a una de esas funciones y ver cual interfaz me gusta mas
 
 el icons de import androidx.compose.material.icons.Icons esta en rojo!, como hago que complie?
 
+En mi archivo Pantalla dashboard, haz que las tabs home sean el dashboard y la tab favoritos me lleve a una pantalla super sencila, 
+que salga un icon grande centrado de empty o algo asi y un tecto abajo que diga aun no tienes favoritos 
+(OJO esto debe ser pura interfaz grafica, no implementes la funcion de poner un producto en favoritos)
+
 
