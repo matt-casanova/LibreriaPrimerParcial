@@ -7,7 +7,11 @@ Implementa en kotlin las clases diseñadas aplicando OOP (nada de interfaz grafi
 
 pero en vez de todo en un solo archivo, no puedes harce cada clase su archivo solito?
 
-ok, ahora implementa el checkpoint 4 
+ahora si, trabajemos la interfaz, esta debe ser sencilla y debe usar los Componentes del Sitio https://developer.android.com/develop/ui/compose/components?hl=es-419, 
+generame DOS interfaces alternativas. ten en cuenta que estamos siguiendo esta practica y quiero hacer SOLO el checkpoint 4  ⁠ ⁠@⁠L⁠i⁠b⁠r⁠e⁠r⁠i⁠a⁠.⁠t⁠x⁠t⁠ ⁠ 
+
+implementa ambas interfaces en dos archivos diferentes, tal que yo en el main activity pueda
+poner el llamado a una de esas funciones y ver cual interfaz me gusta mas
 
 el icons de import androidx.compose.material.icons.Icons esta en rojo!, como hago que complie?
 
