@@ -41,7 +41,7 @@ fun PantallaDashboard() {
     Scaffold(
         topBar = {
             CenterAlignedTopAppBar(
-                title = { Text("Librería \"El Lector\"") },
+                title = { Text("Librería \"BRUCE LEE\"") },
                 colors = TopAppBarDefaults.centerAlignedTopAppBarColors(
                     containerColor = MaterialTheme.colorScheme.primary,
                     titleContentColor = MaterialTheme.colorScheme.onPrimary
