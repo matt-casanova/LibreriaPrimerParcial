@@ -27,6 +27,7 @@ class MainActivity : ComponentActivity() {
                     //PantallaTabs()
 
                     // Opción 2: Pantalla tipo Dashboard (Listas Horizontales)
+                    //Usare este porque es mas pintudo para mi
                     PantallaDashboard()
                 }
             }
